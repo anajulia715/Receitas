@@ -1,1 +1,1 @@
-# Receitas
+# Livro de receitas
